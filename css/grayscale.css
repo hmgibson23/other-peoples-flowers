@@ -13,7 +13,7 @@ html {
 }
 
 .fa-cog {
-  color: black;
+  color: #403c3c;
 }
 
 h1,
@@ -40,6 +40,11 @@ p {
     font-size: 18px;
     line-height: 1.6;
     margin: 0 0 35px;
+  }
+
+  .no-margin {
+      margin-left: 0;
+      padding-left: 0;
   }
 }
 
@@ -83,6 +88,17 @@ p {
   background-color: transparent;
 }
 
+@media (min-width: 540px) {
+    .no-margin {
+        margin-left: 0;
+        padding-left: 0;
+    }
+
+    .intro-fix {
+        padding: 0 !important;
+    }
+}
+
 @media (min-width: 992px) {
   #mainNav {
     padding-top: 20px;
@@ -116,7 +132,7 @@ p {
   padding: 200px 0;
   text-align: center;
   color: black;
-  background: url("../img/otppf-bg.png") no-repeat center;
+  background: url("../img/otpff-plain.png") no-repeat center;
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -125,8 +141,8 @@ p {
 }
 
 .masthead .intro-body {
-  display: table-cell;
-  vertical-align: middle;
+    display: block;
+    padding-top: 5em;
 }
 
 .masthead .intro-body .brand-heading {
