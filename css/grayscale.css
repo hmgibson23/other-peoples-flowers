@@ -93,10 +93,6 @@ p {
         margin-left: 0;
         padding-left: 0;
     }
-
-    .intro-fix {
-        padding: 0 !important;
-    }
 }
 
 @media (min-width: 992px) {
@@ -133,7 +129,6 @@ p {
   text-align: center;
   color: black;
   background: url("../img/otpff-plain.png") no-repeat center;
-  background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -245,6 +240,18 @@ ul.banner-social-buttons {
   ul.banner-social-buttons li:last-child {
     margin-bottom: 0;
   }
+}
+
+@media (max-width: 768px) {
+    .intro-fix {
+        padding: 0 !important;
+    }
+
+    .masthead-fix {
+        padding-top: 55px;
+        padding-bottom: 295px;
+    }
+
 }
 
 footer {
