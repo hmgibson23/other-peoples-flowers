@@ -1,0 +1,40 @@
+* Content
+[Fiction, Storytelling] **Other People's Flowers | Episode 12**
+
+**NSFW (occasional language)**
+
+[Website](http://www.otherpeoplesflowers.com/) // [iTunes](https://itunes.apple.com/gb/podcast/other-peoples-flowers/id1351210915?mt=2) // [Android] (http://subscribeonandroid.com/feeds.soundcloud.com/users/soundcloud:users:403045977/sounds.rss) // [Stitcher](https://www.stitcher.com/podcast/other-peoples-flowers?refid=stpr) // [YouTube](https://www.youtube.com/channel/UCqdO8A-jfzr8CZGdCEzxl7A) // [Blubrry](https://www.blubrry.com/otherpeoplesflowers/) // [Podbean](https://www.podbean.com/podcast-detail/tw73f-672dc/Other-People%27s-Flowers-Podcast) // [Soundcloud] (https://soundcloud.com/other-peoples-flowers)
+
+This week we're featuring a short story by Christopher Woods, Man with
+a White Cane.
+
+Christopher Woods is a writer, teacher and photographer who lives in Chappell Hill, Texas. He has published a novel, THE DREAM PATCH, a prose collection, UNDER A RIVERBED SKY, and a book of stage monologues for actors, HEART SPEAK. His work has appeared in THE SOUTHERN REVIEW, NEW ENGLAND REVIEW, NEW ORLEANS REVIEW, COLUMBIA and GLIMMER TRAIN, among others. His photographs can be seen in his gallery -http://christopherwoods.zenfolio.com/
+
+Other People's Flowers is the podcast that showcases short stories, essays, and reportage. We're the first podcast-based literary journal. People hardly read journals anymore so we hope you'll listen instead.
+
+If you'd like to have your work featured on the show, please send it to editor@otherpeoplesflowers.com
+
+http://www.otherpeoplesflowers.com
+
+* Timings
+** Patricia
+** Robert and Veronica
+  - Too many Pauses at beginning, right up until it actually starts.
+** Ted DeMarsh
+ - 5:11, repeated This, they would be
+** JJ Steinfeld
+
+Thanks so much for sending us your work. We're very sorry to hear about your friend. Mental health is subject very close to both of our hearts. We will read your story and get back to you as soon as we can.
+
+Many thanks,
+ Hugo and Kriskamol
+
+
+I'm heading off but https://github.com/simba-sleep/node-divido-api has
+two outstanding PRs, one for a swagger spec (which has been sent to
+Divido) and one for the api implementing this spec. The api is
+basically done, but the auth is not done at all, and it could do with
+better logging. It will also need to be deployed in some way.
+* Classified for PW.org
+
+OTHER PEOPLE'S FLOWERS is a literary podcast showcasing fiction, essays, and poetry. We aim to give voice to emerging and established writers by featuring them on our podcast. Send your work to editor@otherpeoplesflowers.com. Submissions are open throughout the year. There is no reading fee, but please be aware response times can vary during busier periods. Visit: www.otherpeoplesflowers.com or find us on iTunes or your favourite podcasting platform.
