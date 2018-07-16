@@ -1,0 +1,20 @@
+---
+layout: alternative
+title: About
+permalink: /posts/
+---
+
+<ul class="posts__list">
+{% for post in site.posts %}
+    <li class="posts__list__li">
+        <div class="row">
+            <div class="col-4">
+                <strong>{{ post.date | date: "%B %e, %Y" }}</strong>
+            </div>
+            <div class="col-8">
+                <a href="{{ post.url }}">{{ post.title }}</a>
+            </div>
+        </div>
+    </li>
+{% endfor %}
+</ul>
