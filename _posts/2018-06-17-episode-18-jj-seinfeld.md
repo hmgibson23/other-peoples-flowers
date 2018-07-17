@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Episode 17 - Poetry - JJ Seinfeld"
+title:  "Episode 18 - Poetry - JJ Seinfeld"
 date:    2018-06-17 09:07:45 +0100
 categories: episodes
 ---

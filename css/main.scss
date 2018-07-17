@@ -29,10 +29,6 @@ html {
     height: 100%;
 }
 
-.fa-cog {
-    color: #403c3c;
-}
-
 h1,
 h2,
 h3,
@@ -325,4 +321,8 @@ btn-logo {
 .posts__list__li {
     font-size: 1.4em;
     font-family: lora helvetica;
+}
+
+i {
+    color: #403c3c;
 }
