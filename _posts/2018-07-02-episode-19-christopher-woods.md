@@ -17,6 +17,3 @@ GLIMMER TRAIN, among others. His photographs can be seen in his
 gallery -http://christopherwoods.zenfolio.com/ Other People's Flowers
 is the podcast that showcases short stories, essays, and
 reportage.
-
-We're the first podcast-based literary journal. People
-hardly read journals anymore so we hope you'll listen instead. If you'd like to have your work featured on the show, please send it to editor@otherpeoplesflowers.com http://www.otherpeoplesflowers.com

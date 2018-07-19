@@ -19,5 +19,3 @@ Lives (BrickHouse, 2008).Gale has taught university English in the US,
 China, and the Palestinian West Bank. Other People's Flowers is the
 podcast that showcases short stories, essays, and reportage. We're the
 first podcast-based literary journal.
-
-People hardly read journals anymore so we hope you'll listen instead.

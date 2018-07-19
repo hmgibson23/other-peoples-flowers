@@ -10,5 +10,3 @@ romance in Africa. Ayunda is a novelist and writer who moved to the UK
 from Swaziland in 2010, and has been writing on a number of
 topics. His main interested include post-colonial literature and the
 world's changing relationship with Africa.
-
-If you'd like to have your work featured, please send it to editor@otherpeoplesflowers.com

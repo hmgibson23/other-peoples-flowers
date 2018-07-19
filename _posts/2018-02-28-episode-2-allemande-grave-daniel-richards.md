@@ -11,5 +11,3 @@ investigate. Daniel Richards is a writer and artist living in
 Manchester in the UK. His work explores the effects of urban
 environments on people and the ways in which our lives are twisted by
 increasingly surreal landscapes.
-
-If you'd like to have your work featured on the show, please send it to editor@otherpeoplesflowers.com

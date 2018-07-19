@@ -20,5 +20,3 @@ Guernica Editions, 2017). His short stories and poems have appeared in
 numerous anthologies and periodicals internationally, and over fifty
 of his one-act plays and a handful of full-length plays have been
 performed in Canada and the United States.
-
-Other People's Flowers is the podcast that showcases short stories, essays, and reportage.
