@@ -1,8 +1,13 @@
 * Published Email
-Hi Pete,
+Hi Terry,
 
-Just to let you know we published your episode today. Here are a few links:
+Just to let you know we published Country Man today. Here are a few links:
 
+https://itunes.apple.com/gb/podcast/other-peoples-flowers/id1351210915?mt=2
+https://player.fm/series/series-2182071
+https://www.stitcher.com/podcast/other-peoples-flowers
+https://anchor.fm/other-peoples-flowers
+https://www.podbean.com/podcast-detail/tw73f-672dc/Other-People's-Flowers-Podcast
 
 Thanks so much for sending us your poetry. We really enjoyed it and hopefully you'll think of us again in the future. 
 
@@ -11,6 +16,15 @@ Best Wishes,
 Hugo and Kriskamol
 
 P.S. If you want help promote your work, the best thing you can do is give us a positive (or negative!) review on whichever podcast platform you listen on.
+* Accepted Email
+Hi Michael,
+
+We'd love to feature The Squall on the show. There's nothing you need to do at this stage. We will record it and released it in the next couple of weeks and let you know once we've released. If you want to withdraw it for any reason, then please let us know and we won't record it.
+
+Sometimes stories have been accepted elsewhere in print. Usually we can record it as well, but it's up to the print magazine so if this is the case and you still want us to record it, let us know.
+
+Many thanks,
+Hugo
 * Content
 [Fiction, Storytelling] **Other People's Flowers | Episode 20**
 
@@ -18,16 +32,9 @@ P.S. If you want help promote your work, the best thing you can do is give us a 
 
 [Website](http://www.otherpeoplesflowers.com/) // [iTunes](https://itunes.apple.com/gb/podcast/other-peoples-flowers/id1351210915?mt=2) // [Android] (http://subscribeonandroid.com/feeds.soundcloud.com/users/soundcloud:users:403045977/sounds.rss) // [Stitcher](https://www.stitcher.com/podcast/other-peoples-flowers?refid=stpr) // [YouTube](https://www.youtube.com/channel/UCqdO8A-jfzr8CZGdCEzxl7A) // [Blubrry](https://www.blubrry.com/otherpeoplesflowers/) // [Podbean](https://www.podbean.com/podcast-detail/tw73f-672dc/Other-People%27s-Flowers-Podcast) // [Soundcloud] (https://soundcloud.com/other-peoples-flowers)
 
-This week we're featuring a short story by Pete Stavros, called Twenty
-Good Years. Twenty Good Years is due to be published in Thoughtful Dog (https://www.thoughtfuldogmag.com/).
+This week we're featuring a short story by Michael Anthony.
 
-Peter J. Stavros is a writer in Louisville, Kentucky. His work has
-appeared in The Saturday Evening Post, The Boston Globe Magazine, The
-East Bay Review, Hypertext Magazine, Fiction Southeast, Juked, and
-Literary Orphans, among others. Peter has also had plays produced,
-including as part of the Festival of Ten at The College at Brockport –
-SUNY, for which he was named Audience Choice Winner. More can be found
-at www.peterjstavros.com.
+Michael Anthony is a writer and artist living in New Jersey. He has published fiction, poetry, illustrations, and photographs in literary journals and commercial magazines. Most recently these include The Furious Gazelle, the Northwest Indiana Literary Journal, and The Regal Fox. The American Labor Museum exhibited Michael’s photojournalism essay, “Mill Ends,” on the waning textile industry.
 
 Other People's Flowers is the podcast that showcases short stories, essays, and reportage. We're the first podcast-based literary journal. People hardly read journals anymore so we hope you'll listen instead.
 
@@ -36,24 +43,8 @@ If you'd like to have your work featured on the show, please send it to editor@o
 http://www.otherpeoplesflowers.com
 
 * Timings
-** Patricia
-** Robert and Veronica
-  - Too many Pauses at beginning, right up until it actually starts.
-** Ted DeMarsh
- - 5:11, repeated This, they would be
-** JJ Steinfeld
-Thanks so much for sending us your work. We're very sorry to hear about your friend. Mental health is subject very close to both of our hearts. We will read your story and get back to you as soon as we can.
-** Jeffery Berg
-Beggining - Virginia Centre bit
-Many thanks,
- Hugo and Kriskamol
-
-
-I'm heading off but https://github.com/simba-sleep/node-divido-api has
-two outstanding PRs, one for a swagger spec (which has been sent to
-Divido) and one for the api implementing this spec. The api is
-basically done, but the auth is not done at all, and it could do with
-better logging. It will also need to be deployed in some way.
+** Jenean McBrearty
+** Michael Anthony
 * Classified for PW.org
 
 OTHER PEOPLE'S FLOWERS is a literary podcast showcasing fiction, essays, and poetry. We aim to give voice to emerging and established writers by featuring them on our podcast. Send your work to editor@otherpeoplesflowers.com. Submissions are open throughout the year. There is no reading fee, but please be aware response times can vary during busier periods. Visit: www.otherpeoplesflowers.com or find us on iTunes or your favourite podcasting platform.
